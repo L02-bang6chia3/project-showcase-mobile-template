@@ -52,6 +52,8 @@ plugins:
   - octopress-minify-html
   - amp-jekyll
 
+include:
+  - _images
 ### Exclude from processing.
 exclude:
   - Gemfile
